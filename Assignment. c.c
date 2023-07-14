@@ -1,3 +1,13 @@
+*/name Tauqeer
+Father name Muhammad Rafeeq 
+roll no 40
+    session 2022-2026
+    semester 1stBscs
+    */
+
+
+
+
 #include <stdio.h>
 
 int isprime(int num) {
